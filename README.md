@@ -2,7 +2,7 @@
 
 An interactive Streamlit application that estimates ultimate losses and unpaid loss reserves from a P&C paid claims triangle using the chain ladder method, with adjustable tail factors and an inflation scenario for sensitivity testing.
 
-**Live demo:** [ADD YOUR .streamlit.app LINK HERE]
+**Live demo:** (https://loss-reserving-chain-ladder-fcmohs4kuscgebmyfjz57y.streamlit.app/)
 
 ## Features
 
@@ -29,7 +29,7 @@ An interactive Streamlit application that estimates ultimate losses and unpaid l
 Requires Python 3.10 or newer.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/loss-reserving-chain-ladder.git
+git clone https://github.com/matthew-contreras/loss-reserving-chain-ladder.git
 cd loss-reserving-chain-ladder
 python3 -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
